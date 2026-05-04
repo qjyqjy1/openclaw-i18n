@@ -20,7 +20,7 @@ import shutil
 import os
 
 # ============ 配置 ============
-INDEX_FILE = "/root/openclaw/core/dist/control-ui/index.html"
+INDEX_FILE = "/usr/lib/node_modules/openclaw/dist/control-ui/index.html"
 BACKUP_SUFFIX = ".bak"
 
 # ============ 替换规则 ============
